@@ -2,6 +2,12 @@
 
 ## COMP217 / JAVA / 2019 / 1학기 / 권혜진
 
+## Mini Project
+Mini Project 과제중 1번 elevator program 과제를 완성함.
+- [문제 설명](https://github.com/dnjsrb0710/JAVA/blob/master/java/Mini_project%20(1).pdf) 
+- [my code](https://github.com/dnjsrb0710/JAVA/blob/master/java/ElevatorTest.java)
+
+
 ## Test3
 > #### 입력받은 실수의 정수부분의 절댓값을 주어진 양식으로 출력하는 문제("00백 00십 00")
 >>코드 :  [Test3](https://github.com/dnjsrb0710/JAVA/blob/master/java/Test3.java)
